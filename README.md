@@ -1,7 +1,6 @@
-CFCAL_FULL
+Calorimetric module made of 3x3 or 5x5 PbWO crystals
 ==========
 
-Full containment detector based on Crystal Fibers (LuAG) and Brass, simplified geometry.
+Calorimetric module made from CMS EE like PbWO4 crystal.
 
-Layers of 1 mt long fibers are stacked along z with a tunable spacing.
-Config file can be used to set the spacing between layers and the total number of fibers.
+No ray-tracing is used, only shower development and energy deposition in each crystals are taken into account for study of containment effects.
